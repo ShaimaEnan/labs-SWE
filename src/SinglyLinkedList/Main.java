@@ -6,11 +6,11 @@ public class Main {
 
         SinglyLinkedList<Integer> list = new SinglyLinkedList<Integer>();
         
-        list.addfirst(10);
-        list.addfirst(20);
-        list.addfirst(45);
-        list.addfirst(80);
-        list.addfirst(55);
+        list.addFirst(10);
+        list.addFirst(20);
+        list.addFirst(45);
+        list.addFirst(80);
+        list.addFirst(55);
         list.addLast(90);
         
         
