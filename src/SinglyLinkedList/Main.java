@@ -1,10 +1,10 @@
-package singlylinkelist;
+package SinglyLinkedList;
 
 public class Main {
 
     public static void main(String[] args) {
 
-        singlylinkedlist<Integer>list = new singlylinkedlist<Integer>();
+        SinglyLinkedList<Integer> list = new SinglyLinkedList<Integer>();
         
         list.addfirst(10);
         list.addfirst(20);
